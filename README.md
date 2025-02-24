@@ -9,7 +9,7 @@ This project focuses on predicting retention using advanced machine learning tec
 - This script performs data preprocessing tasks such as handling missing values, feature scaling, encoding categorical variables, and preparing the dataset for model training.
 
 ### `Model Trainer Traditional Machine Learning.py`
-- Implements traditional machine learning algorithms like Logistic Regression, Random Forest, and SVM to train models.
+- Implements traditional machine learning algorithms like Logistic Regression, Random Forest, and Gradient Boosting Machine and Multi Layer Perceptron to train models.
 
 ### `Model Trainer Subset Technique.py`
 - This script explores feature selection techniques and trains models on subsets of features to improve performance.
